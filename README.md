@@ -1,2 +1,2 @@
 # maescode-bot
-my Githop page
+my Github page
